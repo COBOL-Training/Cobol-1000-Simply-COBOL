@@ -3,7 +3,9 @@ Updated to cover how to use A.I, discover how to create applications on your com
 
 ### COBOL Opportunities
 
-It is no news that the supply of COBOL software developers is decreasing. Folks who have held their jobs for an entire lifetime are retiring. As COBOL developers retire, corporate recruiters find themselves frantically searching to replacement them. Rather than abandoning decades of multi-million dollar software & technology projects, many companies are understandably connecting their generational COBOL investments to the cloud!
+It is no news that the supply of COBOL software developers is decreasing. Folks who have held their jobs for an entire lifetime are retiring. 
+
+As COBOL developers retire, corporate recruiters find themselves frantically searching to replace them. 
 
 ### Careers - Not Jobs
 
