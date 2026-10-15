@@ -35,6 +35,8 @@ Yes, COBOL is so “business oriented” that companies do not have to pay for c
 
 ### Conclusions
 
+Rather than abandoning decades of multi-million-dollar software & technology projects, many companies are understandably connecting their generational COBOL investments to the cloud!
+
 So if you - or your company - ever tires of the forever-disruptions of other programming ‘tech, then consider using safe, secure, and Modern COBOL. From AWS to zOS, not only has the rumor of COBOLs death been highly exaggerated, but when was the last time anyone heard of a virus attack crippling big-iron? Ransomware?
 
 So when talking about that return on any programming investment (R.O.I) ... bottom-lines ... profitability, as well as job securities, perhaps it is well PAST time for each and all to learn how to "talk COBOL!"
